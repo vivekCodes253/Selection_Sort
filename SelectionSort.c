@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<iostream>
  
 void display(int arr[],int n)
 {
